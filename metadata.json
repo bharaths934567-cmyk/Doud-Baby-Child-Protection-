@@ -1,0 +1,7 @@
+{
+  "name": "Doud Child Protection",
+  "description": "Parental supervision suite featuring real-time encrypted device telemetry, Telegram bot integration, live location geofencing, and AI safety alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
